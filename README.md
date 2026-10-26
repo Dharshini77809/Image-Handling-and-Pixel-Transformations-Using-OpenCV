@@ -209,11 +209,23 @@ plt.axis("off")
 Step8:
 o Save the final modified image to your local directory.
 ```
-###OUTPUT
-- **i)** Read and Display an Image.  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
+### OUTPUT
+
+<img width="410" height="382" alt="image" src="https://github.com/user-attachments/assets/6088efc5-07d9-4f92-ba4b-8c8e3a91212e" />
+<img width="362" height="382" alt="image" src="https://github.com/user-attachments/assets/693f8ad1-60a8-42a5-8f86-18d6fe2501a8" />
+<img width="382" height="391" alt="image" src="https://github.com/user-attachments/assets/145a56a9-e14b-4d57-813c-bb8cfe39bea0" />
+<img width="372" height="377" alt="image" src="https://github.com/user-attachments/assets/0baa6c7b-8788-40a7-8b61-25e39330cb3b" />
+<img width="315" height="387" alt="image" src="https://github.com/user-attachments/assets/5ea9c991-7b1b-4304-a956-c121f32661ea" />
+<img width="376" height="397" alt="image" src="https://github.com/user-attachments/assets/82c28388-4c53-4902-89ec-a679f8368c9d" />
+<img width="365" height="392" alt="image" src="https://github.com/user-attachments/assets/5e4b2651-d383-4352-8681-77b30b18b53f" />
+<img width="386" height="392" alt="image" src="https://github.com/user-attachments/assets/e38e3668-def0-4964-9b0f-4e5899f7e352" />
+<img width="352" height="382" alt="image" src="https://github.com/user-attachments/assets/7975d99a-6f94-4235-8791-d66e6c097bb9" />
+<img width="351" height="396" alt="image" src="https://github.com/user-attachments/assets/fb22556c-44e2-412e-ac7b-753cfe8ae14f" />
+<img width="500" height="391" alt="image" src="https://github.com/user-attachments/assets/0b0b422a-4013-4add-b61d-d51f7df0fa63" />
+
+<img width="366" height="382" alt="image" src="https://github.com/user-attachments/assets/dd4f7625-a97c-43cf-a583-18f84279696f" />
+<img width="330" height="355" alt="image" src="https://github.com/user-attachments/assets/566994af-d76a-410a-a635-d38541595328" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
